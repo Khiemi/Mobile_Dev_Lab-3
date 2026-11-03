@@ -1,0 +1,19 @@
+==============================================
+          LIBRARY MANAGEMENT SYSTEM           
+              Object-Oriented OOP             
+==============================================
+
+--- Current Book Catalog ---
+Book #1:
+Title: Mobile Development | Author: Warren A. | Price: ₱450.00
+Book #2:
+Title: Python Programming 2 | Author: Paulo P.. | Price: ₱550.00
+Book #3:
+Title: Data Mining | Author: Emelbe M. | Price: ₱600.00
+
+--- Testing Encapsulation (Updating Price) ---
+Original price of "Mobile Development": ₱450.0
+Updated price: ₱480.0
+
+==============================================
+Program executed successfully.
